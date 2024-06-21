@@ -1,0 +1,600 @@
+date,search_query,market,geo_country,device_type,browser_name,intent,daily_query_count
+2023-12-08,google translate,en-gb,GB,Desktop,Chrome,TRANSLATION,2
+2023-12-08,rephrase,en-gb,GB,Desktop,Chrome,DICTIONARY,2
+2023-12-31,amazon,en-gb,GB,Mobile,Chrome,NAVIGATION,2
+2023-12-29,facebook,fr-fr,FR,Mobile,Ecosia ios,NAVIGATION,3
+2023-12-23,tv programm,de-de,DE,Mobile,Safari,OTHER,3
+2023-12-11,fußmatten ford focus kombi,de-de,DE,Mobile,Chrome,SHOPPING,2
+2023-12-07,weather ,,GB,Mobile,Chromium,,2
+2023-12-28,vorwissenschaftliche arbeit,de-de,,Desktop,Chrome,,2
+2023-12-17,vacances scolaires 2023 2024,fr-fr,FR,Mobile,Chromium,QA,4
+2023-12-14,traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,2
+2024-01-01,gens definition,fr-fr,FR,Mobile,Edge,DICTIONARY,2
+2023-12-19,twitch,fr-fr,FR,Desktop,Chrome,OTHER,3
+2023-12-07,nintendo switch,de-de,DE,Mobile,Safari,SHOPPING,2
+2023-12-16,traduction,fr-fr,FR,Desktop,Safari,TRANSLATION,2
+2024-01-02,google,de-de,DE,Mobile,Chromium,NAVIGATION,5
+2023-12-19,etsy,en-gb,GB,Desktop,Chrome,QA,4
+2024-01-04,db streik,de-de,DE,Mobile,Chromium,QA,2
+2023-12-13,outlook,en-gb,GB,Desktop,Chrome,QA,2
+2023-12-07,google scholar,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-28,fnac spectacles,fr-fr,FR,Mobile,Ecosia ios,SHOPPING,2
+2023-12-19,urssaf,fr-fr,FR,Desktop,Chrome,QA,2
+2024-01-05,ikea,de-de,,Desktop,Chrome,,2
+2024-01-05,la redoute,fr-fr,FR,Desktop,Chrome,OTHER,2
+2023-12-23,celebration christmas tree,en-gb,US,Desktop,Firefox,SHOPPING,2
+2023-12-28,ecksofa mit schlaffunktion,,,,,,2
+2023-12-17,ebay kleinanzeigen,de-de,DE,Mobile,Chromium,OTHER,4
+2023-12-17,youtube,en-gb,DE,Mobile,Chrome,OTHER,2
+2023-12-13,blumenkohl und brokkoli im backofen,de-de,DE,,,,2
+2023-12-07,yt,de-de,DE,Desktop,Edge,QA,3
+2023-12-28,"domaindiscount24 ""Economy Migration Special"" ",de-de,DE,Desktop,Firefox,OTHER,2
+2023-12-25,neue geschichten vom pumuckl ,de-de,DE,Mobile,Chromium,OTHER,3
+2023-12-11,otto versandhaus online shop,de-de,DE,Mobile,Chromium,SHOPPING,3
+2023-12-29,Amazon,de-de,DE,Mobile,Chrome,NAVIGATION,2
+2023-12-12,pull and bear,fr-fr,FR,Desktop,Chrome,SHOPPING,2
+2023-12-26,free,fr-fr,FR,Mobile,Chromium,OTHER,2
+2024-01-05,fairphone,fr-fr,FR,Mobile,Chromium,SHOPPING,2
+2023-12-18,zdf mediathek,de-de,DE,Desktop,Firefox,OTHER,4
+2023-12-21,easypark,de-de,DE,Mobile,Chromium,OTHER,4
+2023-12-14,meteociel pechbonnieu,fr-fr,FR,Mobile,Chrome,WEATHER,2
+2023-12-25,gmail,de-de,DE,Desktop,Edge,NAVIGATION,2
+2023-12-15,boots,en-gb,GB,Desktop,Chrome,QA,2
+2023-12-19,nature et decouverte,fr-fr,FR,Mobile,Ecosia ios,OTHER,2
+2024-01-04,aquaman 2,de-de,DE,Mobile,Chrome,OTHER,2
+2023-12-26,thrombose im bein bilder,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-28,ebay kleinanzeigen,de-de,,Desktop,,QA,2
+2023-12-10,Recruiting,en-gb,GB,Desktop,Edge,DICTIONARY,2
+2023-12-19,übersetzer,de-de,DE,Mobile,Chromium,TRANSLATION,3
+2023-12-20,traduction anglais français,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2024-01-02,comment controler l'effet de genre dans une médiation sur jamovi,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-28,canva,fr-fr,FR,Desktop,Chrome,OTHER,4
+2023-12-31,maps,de-de,DE,Desktop,Chrome,OTHER,3
+2023-12-12,patchs jeans,fr-fr,,Mobile,Chromium,OTHER,2
+2023-12-16,tafelspitz rezepte,de-de,DE,Mobile,Chromium,OTHER,2
+2024-01-03,google übersetzer,de-de,DE,Mobile,Chrome,TRANSLATION,2
+2023-12-26,fnac,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-16,doctolib,fr-fr,FR,Mobile,Chromium,OTHER,2
+2024-01-03,grammarly,en-gb,GB,Desktop,Chrome,QA,2
+2024-01-02,front door handle,en-gb,GB,Mobile,Chromium,SHOPPING,2
+2024-01-03,correcteur orthographe,fr-fr,FR,Desktop,Firefox,DICTIONARY,2
+2023-12-31,horloge,fr-fr,FR,Mobile,Chromium,SHOPPING,2
+2023-12-15,chat gpt,de-de,DE,Desktop,Safari,QA,2
+2024-01-03,identité remarquable,fr-fr,FR,Mobile,Ecosia ios,OTHER,2
+2024-01-02,ikea,de-de,DE,Desktop,Firefox,OTHER,4
+2023-12-18,traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,5
+2024-01-04,stummer diener ,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-18,fall in love traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2023-12-29,google übersetzer,de-de,DE,Desktop,Firefox,TRANSLATION,2
+2023-12-25,übersetzer google,de-de,DE,Mobile,Chromium,TRANSLATION,5
+2024-01-02,caf mon compte,fr-fr,FR,Mobile,Chromium,QA,2
+2023-12-24,google übersetzer,,,,Chromium,TRANSLATION,2
+2023-12-11,uma thurman,de-de,DE,Mobile,Chromium,OTHER,2
+2024-01-05,hermes sendungsverfolgung,de-de,DE,Mobile,Chromium,QA,2
+2024-01-03,google,en-gb,GB,Mobile,Ecosia ios,NAVIGATION,4
+2023-12-11,hotel chocolat uk,en-gb,GB,Mobile,Chromium,SHOPPING,2
+2023-12-12,outlook,en-gb,GB,Desktop,Chrome,QA,3
+2023-12-27,facebook,fr-fr,FR,Desktop,Firefox,NAVIGATION,2
+2023-12-15,le bon coin,fr-fr,FR,Desktop,Firefox,OTHER,2
+2024-01-05,db.de auskunft,,DE,,Chromium,OTHER,2
+2023-12-08,indeed jobs,en-gb,GB,Mobile,Chromium,OTHER,2
+2023-12-26,sephora,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-23,traduction,fr-fr,FR,Mobile,Chrome,TRANSLATION,3
+2023-12-16,ntv,de-de,DE,Desktop,Safari,OTHER,2
+2024-01-01,gmx,de-de,DE,Desktop,Edge,OTHER,2
+2023-12-23,facebook,de-de,DE,Mobile,Safari,NAVIGATION,2
+2023-12-07,google traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,2
+2023-12-19,gmail,fr-fr,FR,Desktop,Edge,NAVIGATION,6
+2024-01-06,google traduction,,FR,,,,2
+2023-12-17,cuisinière à bois,fr-fr,FR,Mobile,Chromium,SHOPPING,2
+2023-12-31,alex scott,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-25,cheap laptop,,,,,SHOPPING,2
+2023-12-27,google scholar,en-gb,GB,Desktop,Chrome,QA,3
+2023-12-14,google traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,3
+2023-12-07,instagram,fr-fr,FR,Desktop,Chrome,NAVIGATION,4
+2023-12-27,yahoo mail,fr-fr,FR,Desktop,Chrome,OTHER,3
+2023-12-08,ecoledirecte,fr-fr,FR,Desktop,Chrome,OTHER,4
+2023-12-12,pull and bear,fr-fr,FR,Desktop,,,2
+2023-12-23,google traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,2
+2023-12-17,traduction google,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2023-12-10,google trad,fr-fr,FR,Desktop,Chrome,TRANSLATION,3
+2023-12-31,immobilienscout24,de-de,DE,Mobile,Chromium,OTHER,3
+2024-01-03,traduction lexilogos,fr-fr,FR,Mobile,Chrome,TRANSLATION,2
+2023-12-08,google,en-gb,GB,Mobile,Safari,NAVIGATION,3
+2023-12-11,doctolib mon compte,fr-fr,FR,Desktop,Edge,OTHER,2
+2023-12-10,burghotels,de-de,DE,Desktop,Ecosia ios,QA,2
+2023-12-15,google trad,fr-fr,FR,Desktop,Chrome,TRANSLATION,2
+2023-12-19,google scholar,de-de,DE,Desktop,Edge,QA,3
+2023-12-07,google translate,fr-fr,FR,Desktop,Chrome,TRANSLATION,3
+2023-12-27,skyscanner,,,,,,2
+2024-01-06,3sat mediathek,de-de,DE,Desktop,Firefox,OTHER,3
+2023-12-29,setofilm 4 mg,en-gb,GB,Mobile,Chromium,QA,2
+2023-12-26,bill granger,en-gb,GB,Mobile,Safari,QA,2
+2024-01-06,dog mask,de-de,DE,Mobile,Chromium,SHOPPING,2
+2023-12-13,gmail,en-gb,GB,Desktop,Edge,NAVIGATION,7
+2024-01-02,google drive,fr-fr,FR,Desktop,Safari,QA,2
+2023-12-28,tesco groceries,en-gb,GB,Desktop,Chrome,SHOPPING,2
+2023-12-21,google traduction,fr-fr,FR,Desktop,Edge,TRANSLATION,4
+2023-12-12,induktionskochfeld,de-de,DE,Mobile,Chromium,SHOPPING,2
+2023-12-25,google translate,en-gb,GB,Mobile,Chrome,TRANSLATION,2
+2023-12-21,warehouse,,,,,,2
+2023-12-29,Rübenkohl,de-de,DE,Mobile,Chromium,OTHER,2
+2024-01-01,indeed,fr-fr,FR,Desktop,Chrome,QA,2
+2024-01-06,streik 8.1,de-de,DE,Mobile,Ecosia ios,OTHER,2
+2024-01-06,apple tv,en-gb,GB,,Edge,SHOPPING,2
+2023-12-22,greenakku,de-de,DE,Mobile,Ecosia ios,SHOPPING,2
+2023-12-29,passau,de-de,DE,Mobile,Chromium,,2
+2024-01-05,traduction,fr-fr,FR,Desktop,Firefox,TRANSLATION,2
+2023-12-11,pull tres chaud homme,fr-fr,FR,Mobile,Chrome,SHOPPING,2
+2023-12-07,traducteur,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2023-12-13,comment faire du sable stabilisé video,fr-fr,FR,Mobile,Chromium,QA,2
+2023-12-19,übersetzer,de-de,DE,Desktop,Chrome,DICTIONARY,2
+2024-01-06,traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2023-12-07,traduction,fr-fr,FR,Desktop,Safari,TRANSLATION,3
+2023-12-08,übersetzer englisch deutsch,de-de,DE,Mobile,Chromium,TRANSLATION,2
+2023-12-10,gustini haltbarkeit kühlartikel,de-de,DE,Mobile,Firefox,OTHER,2
+2023-12-17,verkaufsoffener sonntag,de-de,DE,Mobile,Ecosia ios,QA,3
+2024-01-03,vacances scolaires 2023 2024,fr-fr,FR,Mobile,Chromium,QA,3
+2024-01-03,la banque postale mon compte,fr-fr,FR,Desktop,Firefox,QA,2
+2023-12-29,chat gpt,de-de,DE,Desktop,Firefox,OTHER,2
+2024-01-04,google traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,3
+2023-12-10,la redoute,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-08,google traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2023-12-28,payback,de-de,,,Chromium,OTHER,2
+2023-12-13,calzedonia,fr-fr,FR,Mobile,Chromium,SHOPPING,2
+2023-12-24,bluray auf pc abspielen,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-12,google,fr-fr,FR,Desktop,Safari,NAVIGATION,6
+2023-12-28,google,fr-fr,FR,Desktop,Edge,NAVIGATION,12
+2023-12-27,google traduction,fr-fr,,,Ecosia ios,TRANSLATION,2
+2023-12-28,flaconi,de-de,DE,Mobile,Ecosia ios,SHOPPING,2
+2023-12-16,nachrichten,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-19,müller drogeriemarkt,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-28,google traduction,fr-fr,FR,Mobile,Chrome,TRANSLATION,3
+2023-12-25,google übersetzer,de-de,DE,Mobile,Chromium,TRANSLATION,3
+2023-12-14,franceinfo,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-07,enigme gastronomie,fr-fr,FR,Desktop,Chrome,OTHER,2
+2023-12-08,banque postale,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-22,translate,en-gb,GB,Desktop,Chrome,TRANSLATION,2
+2023-12-14,idealo,de-de,DE,Mobile,Chromium,OTHER,4
+2024-01-02,google,en-gb,GB,Mobile,Ecosia ios,NAVIGATION,2
+2023-12-11,synonyme,fr-fr,FR,Mobile,Ecosia ios,DICTIONARY,2
+2023-12-15,translate,de-de,DE,Mobile,Ecosia ios,TRANSLATION,2
+2024-01-01,prinz christian von dänemark,de-de,DE,Mobile,Chromium,OTHER,2
+2024-01-04,proficient,de-de,DE,Desktop,Chrome,TRANSLATION,2
+2023-12-09,amazon,fr-fr,FR,Desktop,Firefox,NAVIGATION,5
+2023-12-16,google traduction ,fr-fr,FR,Mobile,Ecosia ios,TRANSLATION,2
+2023-12-19,google,en-gb,GB,Desktop,Chrome,NAVIGATION,42
+2023-12-10,ebay kleinanzeigen,de-de,DE,Desktop,Firefox,OTHER,7
+2023-12-12,next,en-gb,GB,Desktop,Chrome,SHOPPING,2
+2023-12-13,zalando,,DE,Desktop,Firefox,QA,2
+2023-12-28,vivobarefoot uk,en-gb,GB,Mobile,Chromium,OTHER,2
+2023-12-14,minerva,en-gb,GB,Desktop,Chrome,OTHER,3
+2023-12-07,übersetzer,,,,,,2
+2023-12-16,google traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,3
+2023-12-23,carnations flowers,,,,,SHOPPING,2
+2023-12-08,traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2023-12-25,ikea,de-de,DE,Mobile,Safari,OTHER,2
+2023-12-28,comedian harmonists,de-de,DE,Mobile,Chromium,OTHER,2
+2024-01-03,dkb banking einloggen,de-de,DE,Desktop,Firefox,OTHER,3
+2023-12-15,chat gpt,fr-fr,FR,Desktop,Safari,QA,2
+2023-12-09,ebay kleinanzeigen,,DE,Mobile,Ecosia ios,,2
+2024-01-05,amazon,,FR,,,,3
+2023-12-19,yahoo mail,en-gb,GB,Desktop,Chrome,QA,4
+2024-01-03,you tube,de-de,DE,Desktop,Firefox,OTHER,2
+2023-12-18,rauch möbel,de-de,DE,Desktop,Safari,SHOPPING,2
+2023-12-22,film a suspens amazon,fr-fr,FR,Mobile,Chromium,OTHER,2
+2023-12-10,google,en-gb,GB,Desktop,Chrome,NAVIGATION,30
+2023-12-16,posterxxl,de-de,DE,Mobile,Chromium,SHOPPING,2
+2023-12-20,le bon coin,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-25,mac adressfilterliste telekom,de-de,DE,Desktop,Safari,OTHER,2
+2023-12-09,oesophage anatomie,,,Mobile,Chromium,,2
+2023-12-21,gmail,fr-fr,FR,Mobile,Chrome,NAVIGATION,2
+2023-12-28,ebay,de-de,DE,Desktop,Chrome,NAVIGATION,3
+2024-01-06,epiphany in welsh,en-gb,GB,Mobile,Chrome,OTHER,2
+2023-12-09,iphone xr reconditionne,fr-fr,FR,Mobile,Ecosia ios,SHOPPING,2
+2023-12-20,vinted,fr-fr,FR,Desktop,,QA,2
+2023-12-23,google,de-de,DE,Desktop,Edge,NAVIGATION,12
+2023-12-09,google,,,,,,8
+2024-01-04,gmx login,de-de,DE,Desktop,Edge,OTHER,2
+2023-12-11,whatsapp web,de-de,DE,,Chrome,,4
+2023-12-18,ebay,,,,,NAVIGATION,2
+2023-12-09,google traduction,fr-fr,FR,Desktop,Firefox,TRANSLATION,2
+2023-12-12,youtube,de-de,DE,Desktop,Safari,OTHER,5
+2023-12-12,stepstone,de-de,DE,Mobile,Ecosia ios,OTHER,2
+2023-12-15,ergometer für senioren,de-de,DE,Mobile,Chromium,SHOPPING,2
+2023-12-14,chat gpt,de-de,DE,Desktop,Chrome,QA,4
+2024-01-02,"""intitle:""Mentions Légales"" ""SIRET"" ""email"" ""131""",fr-fr,,Desktop,,OTHER,2
+2023-12-19,steve cooper,en-gb,GB,Desktop,Chrome,QA,2
+2024-01-05,pinterest,fr-fr,FR,Desktop,Chrome,OTHER,3
+2024-01-04,öbb,de-de,DE,Desktop,Chrome,QA,2
+2023-12-08,prime video,fr-fr,FR,Desktop,Chrome,SHOPPING,2
+2023-12-18,reverso,fr-fr,FR,Mobile,Ecosia ios,OTHER,2
+2023-12-17,weihnachtsgrüße,de-de,DE,Mobile,,OTHER,3
+2023-12-20,google translate,en-gb,,Mobile,,,2
+2023-12-30,facebook,de-de,DE,Mobile,Safari,NAVIGATION,2
+2024-01-03,esr,en-gb,GB,Desktop,Chrome,DICTIONARY,4
+2023-12-10,calzedonia,fr-fr,FR,Mobile,Ecosia ios,SHOPPING,2
+2023-12-14,lincoln,en-gb,GB,Desktop,Chrome,QA,2
+2023-12-18,cdiscount,fr-fr,FR,Mobile,Chromium,OTHER,5
+2023-12-22,zoopla,en-gb,GB,Desktop,Edge,QA,2
+2023-12-24,correcteur d'orthographe,fr-fr,FR,Desktop,Chrome,QA,2
+2024-01-06,gifi,fr-fr,FR,Mobile,Chromium,SHOPPING,2
+2023-12-23,facebook,,,,,,3
+2024-01-03,wordle,en-gb,GB,Mobile,Ecosia ios,OTHER,4
+2024-01-01,die bahn,de-de,DE,Mobile,Chromium,OTHER,2
+2024-01-02,stihl akkugeräte,de-de,DE,Mobile,Chromium,SHOPPING,2
+2023-12-10,fußball heute,,DE,,,,2
+2023-12-25,guardian,en-gb,GB,Desktop,Chrome,QA,2
+2023-12-21,google translate,en-gb,GB,Desktop,Chrome,TRANSLATION,3
+2023-12-20,google,en-gb,GB,Mobile,Chrome,NAVIGATION,2
+2024-01-04,tfl,en-gb,GB,Desktop,Edge,QA,2
+2023-12-22,darty,fr-fr,FR,Mobile,Ecosia ios,OTHER,2
+2023-12-13,gg trad,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2024-01-04,blablacar ,de-de,DE,Mobile,Ecosia ios,OTHER,2
+2023-12-20,weather,en-gb,GB,Mobile,Chromium,WEATHER,2
+2024-01-05,habeck,de-de,DE,,Safari,OTHER,2
+2023-12-24,übersetzer google,de-de,DE,Desktop,Chrome,TRANSLATION,3
+2024-01-02,amazon,de-de,DE,Desktop,Firefox,NAVIGATION,8
+2024-01-06,google drive,fr-fr,FR,Desktop,Chrome,QA,3
+2023-12-15,google maps,,,,,,4
+2023-12-07,google traduction,fr-fr,FR,Desktop,Safari,TRANSLATION,2
+2023-12-22,wetter aachen,de-de,DE,Mobile,Chromium,WEATHER,2
+2023-12-21,google übersetzer,de-de,DE,Desktop,Edge,TRANSLATION,2
+2023-12-15,amazon,de-de,DE,Desktop,Safari,NAVIGATION,4
+2023-12-09,lg 38 ultrawide,en-gb,GB,Mobile,Chrome,SHOPPING,2
+2024-01-01,n3 livestream,de-de,DE,Desktop,Firefox,OTHER,2
+2023-12-10,übersetzer google,de-de,DE,Mobile,Chromium,TRANSLATION,4
+2023-12-10,chatgpt,en-gb,GB,Desktop,Edge,OTHER,2
+2023-12-15,fuq,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-08,gmail,fr-fr,FR,Desktop,Firefox,NAVIGATION,19
+2023-12-22,facebook,fr-fr,FR,Mobile,Chromium,NAVIGATION,7
+2023-12-28,boots,,,,,,2
+2023-12-27,Bavarois aux mirabelles,,,,,,2
+2023-12-07,kirchohmfelder putenhof,de-de,,,,,2
+2023-12-29,facebook,de-de,DE,Mobile,Chromium,NAVIGATION,4
+2023-12-15,free mon compte,fr-fr,FR,Mobile,Chromium,QA,2
+2023-12-17,google trad,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2023-12-10,ard livestream,,,,,QA,2
+2023-12-10,bershka,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-09,Basketball,en-gb,GB,Desktop,Edge,SHOPPING,2
+2023-12-23,schaukelstuhl,de-de,DE,Desktop,Firefox,SHOPPING,2
+2023-12-12,zucker und jagdwurst,,,,,OTHER,3
+2023-12-17,caf,fr-fr,FR,Desktop,Chrome,QA,2
+2024-01-04,yt,de-de,DE,Desktop,Chrome,QA,2
+2023-12-11,boursorama,fr-fr,FR,Desktop,Chrome,OTHER,2
+2023-12-17,gmail,en-gb,GB,,,,4
+2023-12-15,gifi catalogue,fr-fr,FR,Mobile,Chrome,SHOPPING,2
+2023-12-26,winter laufhose herren,de-de,DE,Mobile,Chromium,SHOPPING,3
+2023-12-09,guirlande de perles comment bien les mettres ?,fr-fr,FR,Mobile,Ecosia ios,OTHER,2
+2023-12-19,hermes sendungsverfolgung,de-de,DE,Mobile,Chromium,QA,2
+2023-12-08,google traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,6
+2023-12-21,spotify,de-de,DE,Desktop,Firefox,QA,2
+2023-12-09,google traduction,fr-fr,,,,,2
+2023-12-15,amazon prime video,,,,,QA,2
+2023-12-20,google traduction,fr-fr,FR,Mobile,Ecosia ios,TRANSLATION,2
+2024-01-02,john lewis,en-gb,GB,Desktop,Ecosia ios,QA,2
+2023-12-17,google traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,4
+2024-01-02,Geschwister von griechischen Göttin heißt  hestia ,de-de,DE,Mobile,Chromium,QA,2
+2023-12-19,mycanal,fr-fr,FR,Desktop,Safari,OTHER,3
+2024-01-06,google traduction,fr-fr,,Mobile,Chrome,TRANSLATION,2
+2023-12-18,fb,,,,,OTHER,5
+2023-12-09,c’est un classic,fr-fr,FR,Mobile,Ecosia ios,DICTIONARY,2
+2023-12-21,google trad,fr-fr,FR,Desktop,Firefox,TRANSLATION,2
+2024-01-06,bbc iplayer,en-gb,GB,Desktop,Edge,QA,2
+2023-12-12,esr,en-gb,GB,Desktop,Chrome,DICTIONARY,2
+2023-12-30,ecosia,de-de,DE,Desktop,Firefox,OTHER,2
+2024-01-06,gmx,de-de,DE,Desktop,Edge,OTHER,2
+2024-01-01,netflix,fr-fr,FR,Desktop,Chrome,OTHER,5
+2023-12-19,deutsche post,de-de,DE,Mobile,Chrome,OTHER,2
+2023-12-21,mens under armour graphic fleece,en-gb,GB,Desktop,Safari,QA,2
+2023-12-20,gmail,de-de,DE,Desktop,Firefox,NAVIGATION,4
+2023-12-19,chatgpt,de-de,DE,Desktop,Chrome,OTHER,2
+2023-12-27,diy stores,,,,,,2
+2024-01-01,bmw x1 maße,,,Desktop,Safari,OTHER,2
+2024-01-04,rise york,en-gb,,Tablet,Safari,OTHER,2
+2023-12-29,pull and bear,fr-fr,FR,Mobile,Ecosia ios,SHOPPING,2
+2023-12-30,vier schanzen tournee 2023,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-24,andreacanovitas,de-de,DE,Desktop,Firefox,OTHER,2
+2023-12-07,def récréatif,fr-fr,FR,Mobile,Chromium,DICTIONARY,2
+2023-12-07,ecosia,de-de,DE,Desktop,Chrome,QA,3
+2024-01-05,boulanger,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-15,Tiere verwerten Mittelalter ,de-de,DE,Mobile,Chrome,OTHER,2
+2023-12-29,go,de-de,DE,Mobile,Chrome,OTHER,2
+2023-12-23,sauce japonaise,fr-fr,FR,Mobile,Chrome,QA,2
+2024-01-04,google übersetzer,de-de,DE,Desktop,Chrome,TRANSLATION,2
+2024-01-01,bild,de-de,DE,,Ecosia ios,OTHER,2
+2023-12-07,iphone,en-gb,US,Desktop,Chrome,SHOPPING,2
+2023-12-30,momox fashion,,DE,,,,2
+2023-12-13,translate,en-gb,GB,Mobile,Ecosia ios,TRANSLATION,2
+2023-12-23,"88,3% des trains TER étaient à l'heure en Occitanie,",fr-fr,FR,Mobile,Chromium,OTHER,2
+2023-12-09,netflix,fr-fr,,Desktop,Chrome,,8
+2024-01-03,traduction,fr-fr,FR,Mobile,Chrome,TRANSLATION,2
+2023-12-26,adac fahrsicherheitstraining augsburg,de-de,DE,Desktop,Firefox,QA,2
+2024-01-06,das erste,de-de,DE,Desktop,Firefox,OTHER,2
+2023-12-12,wiko vieux ,fr-fr,FR,Mobile,Chrome,OTHER,2
+2023-12-12,google traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,3
+2023-12-29,schuh,,GB,Mobile,,,2
+2023-12-18,chatgpt,en-gb,GB,Desktop,Edge,OTHER,2
+2023-12-23,gmail,fr-fr,FR,Desktop,Safari,NAVIGATION,3
+2023-12-13,maps,,,,,,8
+2024-01-04,malakoff humanis,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-20,google trad,fr-fr,FR,Desktop,Chrome,TRANSLATION,3
+2024-01-03,google,fr-fr,,Mobile,,NAVIGATION,2
+2023-12-23,google übersetzer,,,,,,2
+2023-12-28,nachrichten aktuell,de-de,DE,Mobile,Ecosia ios,OTHER,2
+2023-12-17,canva,fr-fr,FR,Desktop,Chrome,QA,3
+2023-12-21,amazon,de-de,DE,Desktop,Edge,NAVIGATION,6
+2023-12-16,google,fr-fr,FR,Desktop,Safari,NAVIGATION,5
+2023-12-23,deliveroo,en-gb,GB,Desktop,Chrome,QA,3
+2024-01-06,sainsburys,en-gb,GB,Desktop,Chrome,QA,2
+2023-12-11,tiktok,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-12,traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,4
+2024-01-06,lemma,de-de,DE,Desktop,Edge,DICTIONARY,2
+2023-12-19,google übersetzer,de-de,DE,Mobile,Chromium,TRANSLATION,2
+2023-12-12,what is humanism,,,,,,2
+2024-01-06,amazon,de-de,DE,Desktop,Chrome,NAVIGATION,7
+2023-12-20,geoportail,fr-fr,FR,Mobile,Chromium,OTHER,2
+2023-12-28,übersetzer,de-de,DE,Desktop,Edge,DICTIONARY,2
+2023-12-24,bild,,,,,,2
+2023-12-20,drive,fr-fr,FR,Desktop,Chrome,OTHER,6
+2023-12-16,google sheet,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-08,amazon uk,en-gb,GB,Mobile,Ecosia ios,QA,2
+2023-12-14,google,de-de,DE,Mobile,Chromium,NAVIGATION,10
+2023-12-18,oliomatic Rapid-Micro,de-de,DE,Tablet,Chromium,OTHER,2
+2023-12-08,facebook,,,,,NAVIGATION,5
+2023-12-22,chanel coco mademoiselle set,en-gb,GB,Desktop,Chrome,SHOPPING,3
+2023-12-16,victorian engagement ring,,GB,,Chromium,,2
+2023-12-25,minecraft,de-de,DE,Mobile,Safari,OTHER,2
+2023-12-09,lego fortnite,fr-fr,FR,Mobile,Chrome,SHOPPING,2
+2023-12-22,ebay kleinanzeigen,de-de,DE,Desktop,Firefox,QA,2
+2023-12-19,adobe stock,de-de,DE,Desktop,Chrome,QA,2
+2024-01-01,caisse épargne,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-28,google pixel 6,de-de,DE,Mobile,Chromium,SHOPPING,2
+2023-12-13,sketchpad,en-gb,GB,Desktop,Chrome,OTHER,2
+2023-12-12,gmail,,,Desktop,Safari,NAVIGATION,3
+2023-12-28,grinch weihnachtsdeko,de-de,DE,Mobile,Firefox,SHOPPING,2
+2023-12-12,calculator,en-gb,GB,Desktop,Chrome,COMPUTATION,2
+2023-12-29,amazon,fr-fr,FR,Mobile,Ecosia ios,NAVIGATION,4
+2023-12-15,rewe,de-de,DE,Mobile,Firefox,OTHER,2
+2023-12-13,zdf,de-de,DE,Desktop,Firefox,OTHER,2
+2023-12-14,paypal login,en-gb,GB,Desktop,Chrome,QA,2
+2023-12-21,ensap,fr-fr,FR,Desktop,Chrome,OTHER,2
+2023-12-09,google trad,fr-fr,FR,Desktop,Safari,TRANSLATION,2
+2023-12-14,instagram,de-de,DE,Desktop,Safari,NAVIGATION,3
+2023-12-19,google translate,de-de,,,,,2
+2023-12-11,google drive,fr-fr,FR,Desktop,Edge,QA,4
+2023-12-29,tv programm,de-de,DE,Mobile,Ecosia ios,OTHER,2
+2023-12-26,eurowings,de-de,DE,Mobile,Chrome,OTHER,2
+2024-01-03,calculator,en-gb,GB,,Edge,COMPUTATION,3
+2023-12-07,google drive,en-gb,GB,Desktop,Edge,OTHER,3
+2024-01-01,neujahrsgrüße 2024,de-de,DE,Mobile,Chromium,OTHER,4
+2023-12-09,air fryer,,,Mobile,,,2
+2023-12-21,google,,FR,,Edge,NAVIGATION,16
+2024-01-06,etsy shop,de-de,DE,Mobile,Chromium,OTHER,2
+2024-01-04,grand rex salle grand large,fr-fr,,Mobile,Chromium,OTHER,2
+2023-12-12,holztannenbaum,,DE,Mobile,,SHOPPING,2
+2023-12-29,mango,fr-fr,FR,Mobile,Ecosia ios,SHOPPING,2
+2023-12-11,traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,2
+2024-01-02,google translate,fr-fr,FR,Desktop,Safari,TRANSLATION,2
+2023-12-12,kaufland prospekt,de-de,DE,Desktop,Firefox,SHOPPING,2
+2024-01-04,google traduction,fr-fr,FR,Mobile,Ecosia ios,TRANSLATION,3
+2023-12-08,decathlon,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-30,google traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,4
+2023-12-31,guardian uk,en-gb,GB,Mobile,Chromium,OTHER,5
+2023-12-12,companies house,en-gb,,,,,2
+2023-12-17,nettoyeur vapeur,fr-fr,FR,Desktop,Firefox,SHOPPING,2
+2023-12-11,crédit agricole,fr-fr,FR,Desktop,Firefox,QA,2
+2024-01-02,koro,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-30,google translate,en-gb,GB,Mobile,Chrome,TRANSLATION,2
+2023-12-13,google traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,5
+2023-12-28,agt tokio myers,de-de,DE,Mobile,Firefox,OTHER,3
+2023-12-12,mediamarkt,de-de,DE,Mobile,Safari,QA,2
+2023-12-19,Venture capital,en-gb,US,Desktop,Chromium,DICTIONARY,2
+2023-12-11,yahoo,en-gb,GB,Desktop,Edge,OTHER,2
+2023-12-09,translate,fr-fr,FR,Mobile,Chrome,TRANSLATION,2
+2023-12-10,rezept zimtsterne,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-10,thalia ,de-de,DE,Mobile,Ecosia ios,OTHER,2
+2024-01-02,google,,,,Chrome,,3
+2023-12-22,polystichum dahlem,en-gb,,Desktop,Brave,OTHER,2
+2023-12-07,google,de-de,DE,Mobile,Safari,NAVIGATION,4
+2024-01-03,lego,fr-fr,FR,Mobile,Chromium,OTHER,2
+2023-12-19,traduction,fr-fr,,,Ecosia ios,,2
+2023-12-21,google traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,6
+2024-01-06,daniel radcliffe,de-de,DE,Mobile,Chromium,OTHER,2
+2024-01-05,instagram,de-de,DE,Mobile,Ecosia ios,NAVIGATION,2
+2023-12-14,google translate,fr-fr,FR,Desktop,Chrome,TRANSLATION,2
+2023-12-16,miss france,fr-fr,FR,Mobile,Chromium,OTHER,7
+2023-12-17,google übersetzer,de-de,DE,Mobile,Chromium,OTHER,2
+2024-01-01,google traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,2
+2024-01-02,google flight,fr-fr,FR,Desktop,Chrome,QA,2
+2024-01-04,englisch deutsch übersetzer,de-de,DE,Mobile,Chromium,TRANSLATION,2
+2023-12-28,rtl plus,de-de,DE,Desktop,Edge,QA,2
+2023-12-28,tripadvisor,fr-fr,FR,Mobile,Chromium,OTHER,2
+2023-12-16,seegurke,de-de,DE,Mobile,Chromium,OTHER,2
+2024-01-05,google traduction,,,Desktop,,,3
+2024-01-05,emploi saint-étienne-en-bresse,fr-fr,FR,Mobile,Chromium,OTHER,2
+2023-12-07,google traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2023-12-28,hydroxyzine,,,,,,2
+2023-12-13,nhs jobs,en-gb,GB,Desktop,Chrome,QA,2
+2023-12-08,patagonia,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-21,die bahn,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-24,pub rpg design,fr-fr,FR,Desktop,Chrome,OTHER,4
+2023-12-26,aptos,de-de,DE,Mobile,Chromium,OTHER,5
+2023-12-13,sainsbury's groceries,en-gb,GB,Desktop,Chrome,SHOPPING,2
+2023-12-11,maps,,GB,Desktop,Chrome,OTHER,3
+2023-12-18,ecobonsai,fr-fr,FR,Desktop,Chrome,OTHER,4
+2024-01-04,meteo lille 15 jours,,FR,,,,2
+2023-12-14,PR,en-gb,GB,Desktop,Edge,QA,2
+2023-12-19,calculator,en-gb,GB,Desktop,Edge,COMPUTATION,2
+2023-12-28,bbc news,en-gb,GB,Mobile,Chromium,OTHER,3
+2023-12-18,glow,en-gb,GB,Desktop,Chrome,DICTIONARY,3
+2023-12-13,google,de-de,DE,Mobile,Chrome,NAVIGATION,13
+2023-12-08,google traduction,fr-fr,,Desktop,Safari,,2
+2023-12-12,puzzle personnalisé,fr-fr,FR,Desktop,Firefox,SHOPPING,2
+2024-01-01,neujahrskonzert 2024,de-de,DE,Mobile,Chromium,OTHER,5
+2023-12-10,gifi,fr-fr,FR,Desktop,Chrome,SHOPPING,2
+2024-01-01,flixtrain,,,,,,2
+2023-12-29,google,fr-fr,FR,Mobile,Chromium,NAVIGATION,15
+2023-12-08,tony robbins,en-gb,GB,Mobile,Ecosia ios,QA,2
+2023-12-29,gmail,de-de,DE,Mobile,Chromium,NAVIGATION,2
+2024-01-02,symbolisation définition,,,Desktop,Edge,,2
+2024-01-01,vacances scolaires 2023 2024,fr-fr,FR,Mobile,Chromium,OTHER,4
+2023-12-28,youtube,fr-fr,FR,Desktop,Edge,OTHER,9
+2023-12-22,google traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2023-12-10,la legation,fr-fr,FR,Mobile,Safari,OTHER,2
+2023-12-31,big bang theory netflix,de-de,DE,Mobile,Ecosia ios,OTHER,2
+2023-12-12,amazon,en-gb,GB,Desktop,Chrome,NAVIGATION,9
+2024-01-04,iphone 13 mini,fr-fr,FR,Mobile,Safari,SHOPPING,2
+2023-12-12,amazon,de-de,DE,Mobile,Chrome,NAVIGATION,6
+2023-12-14,cadeau homme sportif,,FR,Mobile,Chromium,SHOPPING,2
+2023-12-11,lazarbeam twitter,de-de,DE,Desktop,Ecosia ios,OTHER,2
+2023-12-12,bild,,DE,,Edge,,2
+2023-12-07,jysk,de-de,DE,Desktop,Chrome,QA,2
+2023-12-18,gazelle,fr-fr,FR,Mobile,Ecosia ios,SHOPPING,2
+2023-12-08,creche noel,fr-fr,FR,Mobile,Chrome,QA,2
+2023-12-22,kproxy,fr-fr,FR,Desktop,Safari,QA,2
+2023-12-27,amazon,fr-fr,FR,Desktop,Safari,NAVIGATION,3
+2023-12-14,ard mediathek,de-de,DE,Mobile,Ecosia ios,QA,2
+2023-12-21,argos,en-gb,GB,,Chrome,QA,2
+2023-12-27,parasite,en-gb,GB,Desktop,Edge,DICTIONARY,2
+2023-12-15,tribute von panem,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-19,france info,fr-fr,FR,Desktop,Firefox,OTHER,3
+2023-12-25,boots,en-gb,GB,Mobile,,,2
+2024-01-04,netflix,fr-fr,FR,Desktop,Safari,QA,2
+2023-12-11,google translate,de-de,DE,Mobile,Chromium,TRANSLATION,2
+2023-12-08,meteo,fr-fr,FR,Mobile,Chromium,WEATHER,2
+2023-12-13,nhsmail,en-gb,GB,Desktop,Edge,QA,4
+2024-01-03,calculatrice en ligne,fr-fr,FR,Desktop,Chrome,COMPUTATION,2
+2023-12-18,gmx login,de-de,DE,Mobile,Chromium,QA,2
+2023-12-25,chatgpt,de-de,DE,Mobile,Ecosia ios,OTHER,3
+2023-12-20,google traduction,fr-fr,FR,Desktop,Safari,TRANSLATION,2
+2023-12-12,orthographe,fr-fr,FR,Desktop,Firefox,DICTIONARY,3
+2023-12-15,google translate,en-gb,GB,Desktop,Edge,TRANSLATION,2
+2024-01-03,traduction anglais français,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2023-12-09,google traduction,fr-fr,FR,Mobile,Ecosia ios,TRANSLATION,2
+2023-12-30,programme tv,fr-fr,FR,Mobile,Chromium,OTHER,10
+2023-12-22,google translate,de-de,DE,Desktop,Edge,TRANSLATION,2
+2023-12-24,google,de-de,DE,Desktop,Chrome,NAVIGATION,6
+2023-12-26,traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,4
+2023-12-08,a star is born,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-16,ninja warrior 2023,de-de,DE,Mobile,Ecosia ios,OTHER,3
+2023-12-19,island vulkanausbruch 2023,de-de,DE,Mobile,Chromium,OTHER,5
+2023-12-07,amazon,en-gb,GB,Mobile,Chromium,NAVIGATION,4
+2023-12-21,falkenmühle bundenthal,de-de,DE,Mobile,Chromium,QA,2
+2023-12-25,michael buble,en-gb,AT,Mobile,Chromium,OTHER,2
+2024-01-04,next,en-gb,GB,Desktop,Safari,SHOPPING,2
+2023-12-22,john lewis,en-gb,GB,Desktop,Chrome,QA,2
+2023-12-07,google translate,de-de,DE,Desktop,Edge,TRANSLATION,2
+2023-12-08,spotify,en-gb,GB,Desktop,Chrome,QA,2
+2023-12-16,bw online shop,de-de,DE,Desktop,Firefox,OTHER,2
+2023-12-28,hallo,de-de,DE,Mobile,,,2
+2023-12-07,bbc weather plymouth,en-gb,GB,Desktop,Edge,WEATHER,2
+2023-12-10,kreuzworträtsel hilfe,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-13,just eat,en-gb,GB,Desktop,Chrome,QA,2
+2024-01-02,yahoo mail,fr-fr,FR,Desktop,Chrome,QA,4
+2023-12-12,deepl,de-de,DE,Desktop,Chrome,OTHER,5
+2024-01-03,google traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,4
+2023-12-09,camera thermique,fr-fr,FR,Mobile,Chromium,SHOPPING,2
+2023-12-31,übersetzer,de-de,DE,Mobile,Chromium,TRANSLATION,2
+2023-12-12,maps google,de-de,DE,Tablet,Chromium,OTHER,2
+2023-12-19,kayak,fr-fr,FR,Desktop,Safari,SHOPPING,2
+2023-12-10,booking.com,de-de,,,Edge,NAVIGATION,4
+2023-12-15,traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2024-01-03,nhs mail,en-gb,GB,Desktop,Chrome,QA,2
+2023-12-16,bluebrixx shop,de-de,DE,Desktop,Firefox,OTHER,2
+2023-12-08,google translate,fr-fr,FR,Desktop,Chrome,TRANSLATION,2
+2023-12-10,instagram,de-de,DE,Mobile,Ecosia ios,NAVIGATION,4
+2023-12-25,facebook,fr-fr,FR,Desktop,Firefox,,3
+2023-12-24,santa tracker 2023,en-gb,GB,Mobile,Chromium,QA,5
+2023-12-28,traduction,fr-fr,FR,Desktop,Edge,TRANSLATION,2
+2024-01-05,bialetti perfetto moka,en-gb,GB,Mobile,Chromium,SHOPPING,2
+2023-12-20,google translate,fr-fr,FR,Desktop,Safari,TRANSLATION,2
+2023-12-13,übersetzer,de-de,DE,Desktop,Safari,DICTIONARY,2
+2023-12-11,facebook,en-gb,GB,Mobile,Ecosia ios,NAVIGATION,3
+2023-12-19,google,en-gb,GB,Desktop,Edge,NAVIGATION,42
+2023-12-12,outlook login,en-gb,GB,Desktop,Chrome,OTHER,3
+2023-12-29,traduction,fr-fr,FR,Desktop,Edge,TRANSLATION,2
+2023-12-28,person wearing hawaiian shirt,en-gb,GB,Mobile,Chromium,OTHER,2
+2023-12-26,google traduction,fr-fr,FR,Mobile,Chromium,,2
+2023-12-10,google übersetzer,de-de,DE,Desktop,Firefox,TRANSLATION,2
+2023-12-28,gmail,de-de,DE,Desktop,Edge,NAVIGATION,2
+2023-12-11,spotify,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-30,translator,de-de,DE,Mobile,Chromium,TRANSLATION,2
+2023-12-26,next,en-gb,GB,Mobile,Chromium,SHOPPING,2
+2023-12-20,news,,,,,,2
+2024-01-05,google maps,de-de,DE,Mobile,Chromium,OTHER,9
+2024-01-04,nigiri,de-de,,Mobile,Chromium,OTHER,2
+2023-12-24,google,,,,,,11
+2023-12-10,Automobile,en-gb,GB,Desktop,Edge,DICTIONARY,2
+2023-12-09,zdf live,,,Desktop,,,2
+2023-12-23,fernsehen heute,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-15,hermes sendungsverfolgung,de-de,DE,Desktop,,OTHER,2
+2023-12-17,boulanger,fr-fr,FR,Mobile,Chrome,OTHER,2
+2023-12-11,meteo nantes,,,Mobile,Chromium,,2
+2023-12-14,fjällräven rucksack,de-de,DE,Mobile,Ecosia ios,SHOPPING,2
+2023-12-19,natürlich . selbstverständlich klar,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-19,kaufland prospekt,de-de,DE,Mobile,Chrome,SHOPPING,2
+2023-12-28,traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2023-12-28,pole emploi,fr-fr,FR,Desktop,Chrome,OTHER,3
+2023-12-13,google traduction,,,,Ecosia ios,TRANSLATION,3
+2023-12-16,word zu pdf,de-de,GH,Desktop,Chrome,QA,2
+2023-12-13,chat gpt,de-de,DE,Desktop,Firefox,QA,2
+2023-12-19,pinterest,fr-fr,FR,Desktop,Chrome,OTHER,2
+2023-12-29,ps5,fr-fr,FR,Mobile,Chrome,SHOPPING,2
+2023-12-18,nicolas hulot,fr-fr,FR,Desktop,Ecosia ios,QA,2
+2024-01-05,calculator,en-gb,GB,Desktop,Chrome,COMPUTATION,2
+2023-12-14,brumisateur d huiles essentiels,,,,,,2
+2023-12-15,mbappe,fr-fr,FR,Mobile,Chromium,QA,2
+2023-12-23,recette buche de noel,fr-fr,FR,Mobile,Chromium,OTHER,2
+2023-12-07,google traduction,fr-fr,FR,Desktop,Edge,TRANSLATION,3
+2023-12-20,banque populaire,fr-fr,FR,Desktop,Firefox,OTHER,2
+2023-12-07,übersetzer,de-de,DE,Desktop,Edge,TRANSLATION,2
+2023-12-09,Saint Nick,de-de,AT,Desktop,Chrome,OTHER,2
+2024-01-03,mediathek,de-de,DE,Desktop,Firefox,OTHER,2
+2024-01-04,traduction anglais français,fr-fr,FR,,Chrome,,2
+2023-12-14,facebook,de-de,DE,Mobile,Chrome,NAVIGATION,2
+2024-01-05,google traduction,,,,,TRANSLATION,3
+2023-12-19,butter rezepte,de-de,DE,Desktop,Firefox,OTHER,2
+2023-12-13,lego technic,,FR,,,,2
+2023-12-13,instagram,de-de,DE,Mobile,Ecosia ios,NAVIGATION,4
+2023-12-26,mizuno br-d4c cart bag,en-gb,GB,Mobile,Safari,SHOPPING,2
+2023-12-19,funny slippers men,en-gb,GB,Mobile,Chrome,SHOPPING,2
+2024-01-04,kittens youbtube,en-gb,GB,Desktop,Safari,OTHER,2
+2023-12-27,yahoo mail,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-12,prime video,de-de,DE,Desktop,Chrome,SHOPPING,2
+2023-12-31,ebay,de-de,,Mobile,,,4
+2023-12-11,sosh,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-20,gmx,,DE,Desktop,,,2
+2024-01-03,gmail,fr-fr,FR,Desktop,Edge,NAVIGATION,9
+2023-12-21,prime video,de-de,DE,Desktop,Edge,SHOPPING,2
+2023-12-13,freepik ,fr-fr,FR,Desktop,Firefox,QA,2
+2023-12-23,google,en-gb,,Mobile,Chrome,,4
+2023-12-15,yt,en-gb,GB,Desktop,Chrome,QA,2
+2023-12-26,jd,en-gb,GB,Mobile,Safari,SHOPPING,2
+2024-01-02,handkreissäge,de-de,DE,Mobile,Chromium,OTHER,2
+2023-12-15,traduction,fr-fr,FR,Desktop,Chrome,TRANSLATION,3
+2023-12-18,otto versandhaus online shop,de-de,DE,Mobile,Chromium,SHOPPING,2
+2023-12-07,google translate,en-gb,GB,Mobile,Chromium,TRANSLATION,2
+2024-01-02,google traduction,,,,,TRANSLATION,3
+2023-12-27,iphone 8,de-de,AT,Mobile,Chromium,SHOPPING,2
+2023-12-20,google traduction,fr-fr,FR,Mobile,Chromium,TRANSLATION,2
+2023-12-09,ebay kleinanzeigen,de-de,DE,Mobile,Chromium,QA,4
+2023-12-12,inflammatoire,fr-fr,FR,Mobile,Chrome,QA,2
+2023-12-24,google translate,en-gb,GB,Mobile,Ecosia ios,TRANSLATION,2
+2023-12-13,antonin artaud lycee marseille,fr-fr,FR,Mobile,Safari,QA,2
+2023-12-20,pare,en-gb,GB,Desktop,Edge,DICTIONARY,2
+2023-12-07,chat gpt,fr-fr,FR,Desktop,Safari,QA,5
+2023-12-27,google maps,en-gb,GB,Desktop,Safari,OTHER,2
+2023-12-16,miss provence 2023,fr-fr,FR,Mobile,Ecosia ios,QA,2
+2023-12-09,instagram,fr-fr,FR,Desktop,Safari,NAVIGATION,3
+2024-01-06,ryanair,fr-fr,FR,Desktop,Chrome,QA,2
+2023-12-31,emilia clarke,de-de,DE,Mobile,Chromium,,3
+2023-12-29,google translate,en-gb,GB,Desktop,Chrome,TRANSLATION,4
+2023-12-14,youtube,fr-fr,FR,Mobile,Chrome,OTHER,13
+2023-12-14,google traduction,fr-fr,FR,,Safari,,2
+2023-12-08,珍珠港,zh-cn,CN,Desktop,Safari,OTHER,2
+2023-12-08,文书籍,zh-cn,CN,Desktop,Safari,OTHER,2
+2023-12-08,素食食谱,zh-cn,CN,Desktop,Safari,OTHER,2
+2023-12-08,脸书,zh-cn,CN,Desktop,Safari,OTHER,2
+2023-12-08,谷歌,zh-cn,CN,Desktop,Safari,OTHER,2
+2023-12-08,环保服装,zh-cn,CN,Desktop,Safari,OTHER,2
